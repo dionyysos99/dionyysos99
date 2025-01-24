@@ -1,5 +1,3 @@
-# 🎉 DİONYSOS FOR SAKE !!! 🎉
-
 <div align="center">
   <h1 style="font-size: 48px; font-family: 'Courier New', Courier, monospace;">
     DİONYSOS FOR SAKE !!!
